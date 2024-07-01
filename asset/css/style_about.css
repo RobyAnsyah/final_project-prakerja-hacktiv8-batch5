@@ -1,0 +1,62 @@
+body {
+    background-color: #ffcccc;
+    margin: 0;
+}
+
+#judul {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border-bottom: 2px solid black;
+}
+
+#judul h1 {
+    position: relative;
+    top: 150px;
+    font-size: 60px;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+}
+
+#konten {
+    background-color: #ffcccc;
+    text-align: justify;
+    width: 500px;
+    height: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#gambar_penutup {
+    position: relative;
+    bottom: 30px;
+    right: 30px;
+
+}
+
+#copy_right img {
+    position: relative;
+    top: 40px;
+    left: 9px;
+}
+
+#copy_right h6{
+    margin-left: 30px;
+}
+
+#sosial_media {
+    position: relative;
+    right: 20px;
+
+}
+
+

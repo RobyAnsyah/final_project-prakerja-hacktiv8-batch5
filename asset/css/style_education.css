@@ -1,0 +1,97 @@
+body {
+    background-color: #ffcccc;
+    margin: 0;
+}
+
+#judul {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border-bottom: 2px solid black;
+}
+
+#judul h1 {
+    position: relative;
+    top: 150px;
+    font-size: 60px;
+}
+
+section {
+    display: grid;
+    justify-content: first baseline;
+}
+
+section img {
+    border: solid;
+    border-color: black;
+    border-radius: 50%;
+}
+
+#form1 {
+    margin-left: 90px;
+    display: grid;
+    justify-content: first baseline;
+}
+
+#form2 {
+    margin-left: 90px;
+    display: grid;
+    justify-content: first baseline;
+}
+
+#form3 {
+    margin-left: 90px;
+    display: grid;
+    justify-content: first baseline;
+}
+
+#form4 {
+    margin-left: 90px;
+    display: grid;
+    justify-content: first baseline;
+}
+
+form input {
+    width: 20%;
+    margin-bottom: 1px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: palevioletred;
+}
+
+form label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#gambar_penutup {
+    position: relative;
+    bottom: 30px;
+    right: 30px;
+
+}
+
+#copy_right img {
+    position: relative;
+    top: 40px;
+    left: 9px;
+}
+
+#copy_right h6{
+    margin-left: 30px;
+}
+
+#sosial_media {
+    position: relative;
+    right: 20px;
+
+}
+

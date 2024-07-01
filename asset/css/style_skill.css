@@ -1,0 +1,145 @@
+body {
+    background-color: #ffcccc;
+    margin: 0;
+}
+
+#judul {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border-bottom: 2px solid black;
+}
+
+#judul h1 {
+    position: relative;
+    top: 150px;
+    font-size: 60px;
+}
+
+#hard_text {
+    font-size: 30px;
+    text-decoration: underline;
+    
+}
+
+#hard {
+    display: grid;
+    justify-content: center;
+}
+
+#hard_text {
+    margin-left: 190px;
+}
+
+.text_html {
+   margin-left: 80px;
+   position: absolute;
+   
+}
+
+.text_css {
+   margin-left: 290px;
+   position: absolute;
+}
+
+.text_javascript {
+   margin-left: 490px;
+   position: absolute;
+}
+
+.text_excel {
+    margin-left: 70px;
+    position: absolute;
+}
+
+.text_word {
+    margin-left: 280px;
+    position: absolute;
+}
+
+.text_powerpoint {
+    margin-left: 440px;
+    position: absolute;
+}
+
+#soft {
+    display: grid;
+    justify-content: center;
+}
+
+#soft_text {
+    margin-left: 290px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.text_problem {
+    margin-left: -50px;
+    position: absolute;
+}
+
+.text_creative {
+    margin-left: 200px;
+    position: absolute;
+}
+
+.text_critical {
+    margin-left: 480px;
+    position: absolute;
+}
+
+.text_growth {
+    margin-left: 760px;
+    position: absolute;
+}
+
+.text_integrity {
+    margin-left: -30px;
+    position: absolute;
+}
+
+.text_workhard {
+    margin-left: 230px;
+    position: absolute;
+}
+
+.text_worksmart {
+    margin-left: 500px;
+    position: absolute;
+}
+
+.text_listening {
+    margin-left: 770px;
+    position: absolute;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#gambar_penutup {
+    position: relative;
+    bottom: 30px;
+    right: 30px;
+
+}
+
+#copy_right img {
+    position: relative;
+    top: 40px;
+    left: 9px;
+}
+
+#copy_right h6{
+    margin-left: 30px;
+}
+
+#sosial_media {
+    position: relative;
+    right: 20px;
+
+}
+

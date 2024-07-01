@@ -1,0 +1,176 @@
+body {
+    background-color: #ffcccc;
+    margin: 0;
+}
+
+#judul {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border-bottom: 2px solid black;
+}
+
+#judul h1 {
+    position: relative;
+    top: 150px;
+    font-size: 60px;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+} 
+
+#movie_text {
+    margin-left: 460px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.text_movie1 {
+    margin-left: 65px;
+    position: absolute;
+}
+
+.text_movie2 {
+    margin-left: 265px;
+    position: absolute;
+}
+
+.text_movie3 {
+    margin-left: 485px;
+    position: absolute;
+}
+
+.text_movie4 {
+    margin-left: 640px;
+    position: absolute;
+}
+
+.text_movie5 {
+    margin-left: 880px;
+    position: absolute;
+}
+
+#public_text {
+    margin-left: 390px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.text_public1 {
+    margin-left: 60px;
+    position: absolute;
+}
+
+.text_public2 {
+    margin-left: 260px;
+    position: absolute;
+}
+
+.text_public3 {
+    margin-left: 460px;
+    position: absolute;
+}
+
+.text_public4 {
+    margin-left: 660px;
+    position: absolute;
+}
+
+.text_public5 {
+    margin-left: 870px;
+    position: absolute;
+}
+
+#football_text {
+    margin-left: 360px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.text_football1 {
+    margin-left: 40px;
+    position: absolute;
+}
+
+.text_football2 {
+    margin-left: 260px;
+    position: absolute;
+}
+
+.text_football3 {
+    margin-left: 460px;
+    position: absolute;
+}
+
+.text_football4 {
+    margin-left: 660px;
+    position: absolute;
+}
+
+.text_football5 {
+    margin-left: 870px;
+    position: absolute;
+}
+
+#hoby_text {
+    margin-left: 460px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.text_hoby1 {
+    margin-left: 40px;
+    position: absolute;
+}
+
+.text_hoby2 {
+    margin-left: 250px;
+    position: absolute;
+}
+
+.text_hoby3 {
+    margin-left: 460px;
+    position: absolute;
+}
+
+.text_hoby4 {
+    margin-left: 660px;
+    position: absolute;
+}
+
+.text_hoby5 {
+    margin-left: 890px;
+    position: absolute;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#gambar_penutup {
+    position: relative;
+    bottom: 30px;
+    right: 30px;
+
+}
+
+#copy_right img {
+    position: relative;
+    top: 40px;
+    left: 9px;
+}
+
+#copy_right h6{
+    margin-left: 30px;
+}
+
+#sosial_media {
+    position: relative;
+    right: 20px;
+
+}
